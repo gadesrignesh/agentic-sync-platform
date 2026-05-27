@@ -116,7 +116,7 @@ else {
 
         const response = await fetch(
 
-            "https://srignesh01-syncAI-backend.hf.space/chat",
+            "https://srignesh01-syncai-backend.hf.space/chat",
 
             {
 
