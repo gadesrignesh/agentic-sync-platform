@@ -1,4 +1,4 @@
-const SOCKET_URL = "wss://srignesh01-syncAI-backend.hf.space";
+const SOCKET_URL = "wss://srignesh01-syncai-backend.hf.space";
 
 let socket = null;
 
