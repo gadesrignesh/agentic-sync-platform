@@ -4,6 +4,7 @@ anyio==4.13.0
 click==8.4.1
 colorama==0.4.6
 fastapi==0.136.3
+google-generativeai
 h11==0.16.0
 idna==3.16
 pydantic==2.13.4
